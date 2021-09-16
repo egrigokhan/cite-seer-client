@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/citeseer/static/css/main.38c51fd3.chunk.css",
+    "main.js": "/citeseer/static/js/main.51bcf59e.chunk.js",
+    "main.js.map": "/citeseer/static/js/main.51bcf59e.chunk.js.map",
+    "runtime-main.js": "/citeseer/static/js/runtime-main.fc83da86.js",
+    "runtime-main.js.map": "/citeseer/static/js/runtime-main.fc83da86.js.map",
+    "static/js/2.c7d65aff.chunk.js": "/citeseer/static/js/2.c7d65aff.chunk.js",
+    "static/js/2.c7d65aff.chunk.js.map": "/citeseer/static/js/2.c7d65aff.chunk.js.map",
+    "static/js/3.7be2525c.chunk.js": "/citeseer/static/js/3.7be2525c.chunk.js",
+    "static/js/3.7be2525c.chunk.js.map": "/citeseer/static/js/3.7be2525c.chunk.js.map",
+    "index.html": "/citeseer/index.html",
+    "static/css/main.38c51fd3.chunk.css.map": "/citeseer/static/css/main.38c51fd3.chunk.css.map",
+    "static/js/2.c7d65aff.chunk.js.LICENSE.txt": "/citeseer/static/js/2.c7d65aff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/citeseer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc83da86.js",
+    "static/js/2.c7d65aff.chunk.js",
+    "static/css/main.38c51fd3.chunk.css",
+    "static/js/main.51bcf59e.chunk.js"
+  ]
+}
